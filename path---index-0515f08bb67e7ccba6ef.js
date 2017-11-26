@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{300:function(t,e){t.exports={data:{allMarkdownRemark:{edges:[{node:{id:"/Users/opagani/projects/blog/src/pages/11-25-2017-second-blog/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Second Blog Post",path:"/second-post",date:"2017-11-25"}}},{node:{id:"/Users/opagani/projects/blog/src/pages/11-24-2017-first-blog/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"First Blog Post",path:"/first-post",date:"2017-11-24"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-0515f08bb67e7ccba6ef.js.map
